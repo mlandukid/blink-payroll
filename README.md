@@ -44,3 +44,4 @@ Once that command has been excuted on your terminal
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
 Your browser should display this on your screen:
+[![Screenshot-from-2022-12-20-10-08-11.png](https://i.postimg.cc/zGN07PqH/Screenshot-from-2022-12-20-10-08-11.png)](https://postimg.cc/tYr3CkZ9)
